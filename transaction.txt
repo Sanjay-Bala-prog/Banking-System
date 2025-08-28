@@ -1,0 +1,3 @@
+Tue Aug 26 16:19:18 2025 | Acc#1234 | Deposite ₹230000 | Balance ₹230000
+Tue Aug 26 16:21:14 2025 | Acc#12234 | Deposite ₹23456 | Balance ₹23456
+Tue Aug 26 16:27:44 2025 | Acc#1234 | Withdraw ₹123 | Balance ₹229877
